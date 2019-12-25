@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map epd
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ newImage	KEYWORD2	
+ clear	KEYWORD2
+SDCard_ReadBMP	KEYWORD2
+EPD_Sleep	KEYWORD2
+SDCard_ReadBMP	KEYWORD2
+delay	KEYWORD2
+DEV_Module_exit	KEYWORD2
+DEV_Module_init	KEYWORD2
+SDCard_init	KEYWORD2
+ drawBitMap	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+IMAGE_DATA	LITERAL1
+
