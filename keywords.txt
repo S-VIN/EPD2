@@ -3,7 +3,7 @@
 #######################################
 
 #######################################
-# Datatypes (KEYWORD1)
+# datatypes (KEYWORD1)
 #######################################
 
 
@@ -27,5 +27,5 @@ SDCard_init	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-IMAGE_DATA	LITERAL1
+IMAGE_data	LITERAL1
 
